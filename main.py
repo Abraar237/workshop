@@ -8,7 +8,7 @@ groq_client = Groq(api_key='YOUR API KEY')
 web_cam = cv2.VideoCapture(1)
 
 
-genai.configure(api_key='AIzaSyDxO2Ep6Rkomsyl0oW2_VBqo_P-qI_8k3Q')
+genai.configure(api_key='YOUR API KEY ')
 
 web_cam = cv2.VideoCapture(1)
 
