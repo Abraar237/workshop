@@ -4,7 +4,7 @@ import cv2
 import pyperclip
 import google.generativeai as genai
 
-groq_client = Groq(api_key='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')
+groq_client = Groq(api_key='YOUR API KEY')
 web_cam = cv2.VideoCapture(1)
 
 
